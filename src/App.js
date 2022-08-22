@@ -18,7 +18,7 @@ const App = () => {
     <>
     <div className='app'>
     <NavBar />
-      <h1>Coder House</h1>
+      <h1>La Pelu</h1>
       <hr/>
       {/* esto es un comentario */}
       <Curso curso="ReactJs" profesor="Leo Messi" duracion="7" precio="500"/>
